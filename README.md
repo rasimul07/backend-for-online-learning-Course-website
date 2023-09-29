@@ -1,4 +1,4 @@
-## Create a course selling website
+## create a backend for course selling website
 
 ### Description
 Functionally different Routes.
